@@ -23,7 +23,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,android,ios,androidstudio,vscode,sqlite,mysqli,firebase,github,git,postman,figma&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,sqlite,mysql,firebase,github,git,postman,figma&perline=8)](https://skillicons.dev)
 
 ![Saad Saleem GitHub stats](https://github-readme-stats.vercel.app/api?username=msaadsaleem1001&show_icons=true&theme=dark)
 
