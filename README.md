@@ -17,7 +17,7 @@
    <a href="https://www.fb.com/profile.php?id=100041839277629&mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="www.linkedin.com/saad-saleem-8108b4194">
+  <a href="https://www.linkedin.com/in/saad-saleem-8108b4194">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
