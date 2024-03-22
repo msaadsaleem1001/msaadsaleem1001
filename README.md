@@ -14,7 +14,7 @@
    <a href="https://www.instagram.com/saleem.7884">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-   <a href="https://www.facebook.com/profile.php?id=100041839277629&mibextid=ZbWKwL">
+   <a href="https://www.fb.com/profile.php?id=100041839277629&mibextid=ZbWKwL">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="www.linkedin.com/in/saad-saleem-8108b4194">
